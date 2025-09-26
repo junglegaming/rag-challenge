@@ -114,7 +114,7 @@ Response:
 │   ├── config.py
 │   └── main.py
 ├── docker-compose.yml
-├── requirements.txt / package.json
+├── requirements.txt
 ├── .env.example
 └── README.md
 ```
